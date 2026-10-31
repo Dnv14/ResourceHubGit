@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/resourcehub/resourcehub/pom.xml" />
+        <option value="$PROJECT_DIR$/ResourceHub/pom.xml" />
       </list>
     </option>
   </component>
